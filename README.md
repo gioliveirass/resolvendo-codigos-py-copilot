@@ -1,85 +1,49 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Resolvendo Codigos em Python com o ChatGPT
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
+Olá!! Aqui veremos iremos resolver alguns codigos em Python com a ajuda do ChatGPT, sob orientação da Professora Aline da DIO!
 
-### Atenção ⚠️ 
+O desenvolvimento foi realizado no GitHub Codespace.
 
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+**Você pode encontrar minhas resoluções dos exercicios na pasta giovana_resolucoes_code.**
 
-## 1 - Concatenando Dados 🐾
+## Primeiro codigo: Concatenando Dados
 
-Descrição:
-Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?! 
+**Descrição:** Vamos receber dois dados diferentes do usuário e concatena-los em uma única string?!
 
-O que aprenderemos?
+**Resolução**
+1. Foram adicionados 2 inputs (info1 e info2).
+2. Foi solicitado ao ChatGPT para concatenar os valores dos dois inputs.
+3. O ChatGPT respondeu: resultado = info1 + info2.
+4. Foi solicitado ao ChatGPT para descrever o algoritmo.
+5. Descrição dada pelo ChatGPT:
+![alt text](image.png)
 
-* Manipulação de Strings (string)
-* Concatenação
-* Entrada de dados
-* Utilização eficiente do Github Copilot
+## Segundo Codigo: Repetindo Textos
 
-<br>
+**Descrição:** Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado.
 
-## 2 - Repetindo Textos ✏️
+**Resolução**
+1. Foi solicitado ao ChatGPT "Agora vamos solicitar uma string e um número inteiro como entrada". Ele respondeu e a resposta foi aceita e adicionada ao codigo.
+2. Agora foi solicitado "agora retornar a string repetida o número de vezes informado" ao ChatGPT, e a resposta foi aceita e inserida ao codigo. Além disso, o ChatGPT também explicou a resolução.
+![alt text](image-1.png)
+3. Foi editado o codigo manualmente para realizar um espaço entre as strings.
 
-Descrição:
-Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o número de vezes informado. 
+## Terceiro codigo: Matemáticas Simples
 
-O que aprenderemos?
+**Descrição:** Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
 
-* Manipulação de Strings (string)
-* Números Inteiros (int)
-* Múltiplas repetições
-* Entrada de dados
-* Aproveitar as sugestões do Github Copilot
+**Resolução**
+1. Foi solicitado ao ChatGPT: "Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles".
+2. O ChatGPT respondeu com o codigo que foi aceito e adicionado ao terceiro_codigo.py.
+3. Além do codigo, o ChatGPT explicou o algoritmo:
+![alt text](image-2.png)
 
-<br>
+## Quarto codigo: Verificando Números Pares e Ímpares
 
-## 3 - Operações Matemáticas Simples 📐
+**Descrição:** Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
 
-Descrição:
-Vamos solicitar como entrada dois números e depois vamos realizar uma operação simples entre eles.
-
-O que aprenderemos?
-
-* Operações Matemáticas Básicas
-* Entrada de dados
-* Utilização eficiente do Github Copilot
-
-<br>
-
-## 4 - Verificando Números Pares e Ímpares 🧮
-
-Descrição: Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. 
-Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
-
-O que aprenderemos?
-* Utilização de condicionais em Python (if, else) para realizar verificações.
-* Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
-
-
-<br>
-
-## 5 - Calculando Média de Notas 📚
-
-Descrição: Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
-Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
-
-O que aprenderemos?
-* Uso de variáveis para armazenar dados fornecidos pelo usuário.
-* Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
-* Prática na solicitação e manipulação de entrada do usuário.
-
-<br>
-
-## 6 - Verificando Palíndromos 🔄
-
-Descrição: Vamos testar se uma palavra é um palíndromo?! 
-Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
-
-O que aprenderemos?
-* Manipulação de strings em Python, especialmente invertendo uma string.
-* Compreensão de como comparar a string original com sua versão invertida para determinar se é um palíndromo.
-* Introdução ao conceito de palíndromos e sua aplicação em problemas de programação.
+**Resolução**
+1. Foi solicitado ao ChatGPT: "Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação e otimize o codigo".
+2. O ChatGPT respondeu um codigo de 2 linhas que foi aceito e adicinado ao quarto_codigo.py.
+3. O ChatGPT explicou brevemente o algoritmo:
+![alt text](image-3.png)
